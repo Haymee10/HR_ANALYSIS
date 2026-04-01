@@ -158,7 +158,7 @@ SOURCE HR_ANALYSIS_CLEANING_SCRIPT.sql;
 ## 👤 Author
 
 **Mr. Amos Aragba**
-🔗 [https://linkedin.com/in/your-profile](https://linkedin.com/in/Amos-Aragba)
+🔗 [https://linkedin.com/in/your-profile](https://linkedin.com/in/amos-aragba)
 
 ---
 
